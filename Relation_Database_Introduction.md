@@ -22,3 +22,6 @@ Any of the candidate key can be the primary key
 
 ### Composite Key
 If more than one column is needed to uniquely identify the row, then it is called as composite key. Also the single column shouldnt be able to uniquely identify the row uniquely.
+
+### Note
+*Primary keys cannot have null values.*
