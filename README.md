@@ -6,4 +6,4 @@
 
 
 # HackerRank SQL problems
-1. [Type of triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true) --> [Solution](./TRIANGLES.SQL)
+1. [Type of triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true) - [Solution](./TRIANGLES.SQL)
