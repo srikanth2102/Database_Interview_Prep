@@ -11,3 +11,4 @@
 3. [Revising_the_Select_Query_I](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true) - [Solution](./Revising_the_Select_Query_I.SQL)
 4. [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true) - [Solution](./Select_All.SQL)
 5. [Select_By_ID](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true) - [Solution](./Select_By_ID.SQL)
+6. [Japanese_Cities_Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true) - [Solution](./Japanese_Cities_Attributes.SQL)
