@@ -7,4 +7,4 @@
 
 # HackerRank SQL problems
 1. [Type of triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem?isFullScreen=true) - [Solution](./TRIANGLES.SQL)
-1. [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) - [Solution](./Revising the Select Query I.SQL)
+1. [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) - [](./Revising the Select Query I.SQL)
