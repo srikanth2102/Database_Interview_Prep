@@ -13,3 +13,4 @@
 5. [Select_By_ID](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true) - [Solution](./Select_By_ID.SQL)
 6. [Japanese_Cities_Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true) - [Solution](./Japanese_Cities_Attributes.SQL)
 7. [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) - [Solution](./Japanese_Cities'_Names.SQL)
+8. [Weather_Observation_Station_1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true) - [Solution](./Weather_Observation_Station_1.SQL)
